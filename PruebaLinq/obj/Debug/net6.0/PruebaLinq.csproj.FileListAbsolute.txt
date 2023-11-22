@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\bin\Debug\net6.0\PruebaLinq.exe
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\bin\Debug\net6.0\PruebaLinq.deps.json
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\bin\Debug\net6.0\PruebaLinq.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\bin\Debug\net6.0\PruebaLinq.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\bin\Debug\net6.0\PruebaLinq.pdb
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\refint\PruebaLinq.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.pdb
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\PruebaLinq.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\PruebaLinq\obj\Debug\net6.0\ref\PruebaLinq.dll

@@ -1,0 +1,19 @@
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\bin\Debug\net6.0-windows\Practica para examen.exe
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\bin\Debug\net6.0-windows\Practica para examen.deps.json
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\bin\Debug\net6.0-windows\Practica para examen.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\bin\Debug\net6.0-windows\Practica para examen.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\bin\Debug\net6.0-windows\Practica para examen.pdb
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica_para_examen.frmRevistas.resources
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica_para_examen.frmLibros.resources
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\refint\Practica para examen.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.pdb
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica para examen.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\ref\Practica para examen.dll
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica_para_examen.frmMenu.resources
+C:\Users\Usuario\Desktop\Practica de la segunda unidad\Practica para examen\obj\Debug\net6.0-windows\Practica_para_examen.Properties.Resources.resources
